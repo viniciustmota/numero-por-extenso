@@ -1,0 +1,10 @@
+C:\Users\Fatec\Desktop\numero por extenso\numero por extenso\bin\Debug\numero por extenso.exe.config
+C:\Users\Fatec\Desktop\numero por extenso\numero por extenso\bin\Debug\numero por extenso.exe
+C:\Users\Fatec\Desktop\numero por extenso\numero por extenso\bin\Debug\numero por extenso.pdb
+C:\Users\Fatec\Desktop\numero por extenso\numero por extenso\obj\Debug\numero por extenso.csprojAssemblyReference.cache
+C:\Users\Fatec\Desktop\numero por extenso\numero por extenso\obj\Debug\numero_por_extenso.Form1.resources
+C:\Users\Fatec\Desktop\numero por extenso\numero por extenso\obj\Debug\numero_por_extenso.Properties.Resources.resources
+C:\Users\Fatec\Desktop\numero por extenso\numero por extenso\obj\Debug\numero por extenso.csproj.GenerateResource.cache
+C:\Users\Fatec\Desktop\numero por extenso\numero por extenso\obj\Debug\numero por extenso.csproj.CoreCompileInputs.cache
+C:\Users\Fatec\Desktop\numero por extenso\numero por extenso\obj\Debug\numero por extenso.exe
+C:\Users\Fatec\Desktop\numero por extenso\numero por extenso\obj\Debug\numero por extenso.pdb
