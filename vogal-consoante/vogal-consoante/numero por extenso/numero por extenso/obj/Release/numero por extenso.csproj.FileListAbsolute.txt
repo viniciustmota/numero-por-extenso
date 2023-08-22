@@ -1,0 +1,4 @@
+C:\Users\Fatec\Downloads\vogal-consoante-main\vogal-consoante\numero por extenso\numero por extenso\obj\Release\numero_por_extenso.Form1.resources
+C:\Users\Fatec\Downloads\vogal-consoante-main\vogal-consoante\numero por extenso\numero por extenso\obj\Release\numero_por_extenso.Properties.Resources.resources
+C:\Users\Fatec\Downloads\vogal-consoante-main\vogal-consoante\numero por extenso\numero por extenso\obj\Release\numero por extenso.csproj.GenerateResource.cache
+C:\Users\Fatec\Downloads\vogal-consoante-main\vogal-consoante\numero por extenso\numero por extenso\obj\Release\numero por extenso.csproj.CoreCompileInputs.cache
